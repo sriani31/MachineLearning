@@ -1,8 +1,11 @@
 The repository contains working examples of different classical machine learning algos.
 This includes - 
 *Sourcing
+
 *Analysing the data
+
 *Visualisation
+
 *Cleaning up
 *Models
 *Output of models

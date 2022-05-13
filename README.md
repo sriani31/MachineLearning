@@ -4,8 +4,8 @@ This includes -
 * Analysing the data<br />
 * Visualisation<br />
 * Data Cleaning up<br />
-     -Handling Outliers
-     -Missing Values
+     - Handling Outliers
+     - Missing Values
 * Data Preparation<br />
      - Covert Categorical variables to numberic variables
      - Create Derived Metrics

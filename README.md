@@ -10,5 +10,5 @@ This includes -
       Validation
  
  
- This is useful for basic learning and how to approach datasets.
+ This is useful for basic learning and how to approach datasets for solving problems.
  

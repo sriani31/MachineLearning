@@ -3,7 +3,12 @@ This includes -
 * Sourcing<br />
 * Analysing the data<br />
 * Visualisation<br />
-* Cleaning up<br />
+* Data Cleaning up<br />
+     -Handling Outliers
+     -Missing Values
+* Data Preparation<br />
+     - Covert Categorical variables to numberic variables
+     - Create Derived Metrics
 * Models<br />
 * Output of models<br />
 * What model to use and when<br />
